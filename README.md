@@ -2,4 +2,4 @@
 zama test
 ZAMA CREATOR PROGRAM
 zama devloper task
-step 1
+step 1 join guild
