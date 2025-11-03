@@ -4,3 +4,4 @@ ZAMA CREATOR PROGRAM
 zama devloper task
 step 1 join guild
 step 2 connect your wallet
+zama creator program season 3 end
